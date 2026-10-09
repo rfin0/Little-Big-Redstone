@@ -1,5 +1,7 @@
 {
+  "fml.menu.mods.info.description.little_big_redstone": "Уместите большие схемы из красного камня в маленький блок!",
   "item.little_big_redstone.and_gate": "Вентиль И",
+  "item.little_big_redstone.battery": "Источник сигнала",
   "item.little_big_redstone.black_floppy_disk": "Чёрная дискета",
   "item.little_big_redstone.black_logic_array": "Чёрная логическая матрица",
   "item.little_big_redstone.black_microchip": "Чёрный микрочип",
@@ -246,6 +248,7 @@
   "text.little_big_redstone.logic_gate_algebra_or": "A ∨ B",
   "text.little_big_redstone.logic_gate_algebra_xor": "A ⊻ B",
   "text.little_big_redstone.logic_help_and_gate": "Выход включён, когда все входы включены, иначе выход выключен.",
+  "text.little_big_redstone.logic_help_battery": "Сила выходного сигнала всегда равна заданному значению.",
   "text.little_big_redstone.logic_help_calculator_1": "Режим определяет, будет ли компонент складывать или вычитать значения силы входных сигналов.",
   "text.little_big_redstone.logic_help_calculator_2": "Сила выходного сигнала будет равна итоговому рассчитанному значению.",
   "text.little_big_redstone.logic_help_comparator_1": "Режим определяет, должны ли все входы или хотя бы один вход соответствовать сравнению.",
